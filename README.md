@@ -1,13 +1,15 @@
-#Curso de Git
+# Curso de Git
 
-editar o arquivo depois de clonar na segunda pasta
 
-Texto do curso
+Texto falando sobre o exercício 1 e o conceito explicado da forma que houve o entendimento
 
 
 Esse texto é exemplicicando uma edição de arquivo de texto
 
-#Outro titulo a baixo
+# Segundo titulo referente ao exercício
 
 -- 
 Paragrafo
+
+
+Edição do arquivo logo após clonar na segunda pasta. 
